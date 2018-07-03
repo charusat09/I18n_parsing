@@ -1,0 +1,21 @@
+
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:5 --> active_jobs_&_responses: Active jobs & responses
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:10 --> records_per_page: Records per page
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:29 --> date_and_time: Date and Time
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:30 --> transaction_id: Transaction ID
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:31 --> candidate_id: Candidate ID
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:5 --> active_jobs_&_responses: Active jobs & responses
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:10 --> records_per_page: Records per page
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:29 --> date_and_time: Date and Time
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:30 --> transaction_id: Transaction ID
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
+/home/mayur/Desktop/mayur/projects/demo/I18n_parsing/parse.rb:31 --> candidate_id: Candidate ID
+home.mayur.Desktop.mayur.projects.demo.I18n_parsing.parse.rb
